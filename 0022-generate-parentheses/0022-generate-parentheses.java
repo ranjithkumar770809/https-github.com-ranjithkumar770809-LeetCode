@@ -10,6 +10,7 @@ class Solution {
         if(s.length() == n*2)
         {
             res.add(s);
+            return;
         }
         if(oc<n)
         {
