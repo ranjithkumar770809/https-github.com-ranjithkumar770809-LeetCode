@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0200-number-of-islands) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
