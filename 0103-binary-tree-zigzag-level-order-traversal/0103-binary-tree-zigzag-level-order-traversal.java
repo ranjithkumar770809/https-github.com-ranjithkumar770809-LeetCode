@@ -36,7 +36,7 @@ class Solution {
                 if(cur.left != null)  { q.add(cur.left); }
                 if(cur.right != null) { q.add(cur.right);}              
             }
-            if(flag == true){
+            if(flag){
                 Collections.reverse(temp);
             }
             flag= !flag;
