@@ -13,7 +13,8 @@ class Solution {
         dist[src] = 0;
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[]{src,0,0} );
-        while (!q.isEmpty()) {
+        while (!q.isEmpty()) 
+        {
             int[] node = q.poll();
             int u = node[0];
             int d = node[1];
