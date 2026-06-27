@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0397-integer-replacement](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0397-integer-replacement/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
