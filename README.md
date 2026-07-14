@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0046-permutations) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
