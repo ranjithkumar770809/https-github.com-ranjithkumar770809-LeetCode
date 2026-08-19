@@ -41,8 +41,6 @@
             path(root.left, target, currSum, currPath, ans);
             path(root.right, target, currSum, currPath, ans);
         }
-
-        // Backtracking
         currPath.remove(currPath.size() - 1);
     }
 }
