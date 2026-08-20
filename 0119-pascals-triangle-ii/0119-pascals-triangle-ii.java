@@ -6,7 +6,6 @@ class Solution {
             ArrayList<Integer> al = new ArrayList<>();
             al.add(1);
             for(int j=0;j<temp.size()-1;j++){
-                // ArrayList<Integer> al = new ArrayList<>();
                 al.add(temp.get(j) + temp.get(j+1));
             }
             al.add(1);
