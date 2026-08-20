@@ -26,7 +26,7 @@
 //     }
 // }
 
-import java.util.Arrays;
+
 
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
@@ -45,7 +45,6 @@ class Solution {
             while (left < right) {
                 int res = nums[i] + nums[left] + nums[right];
 
-                // Exact target கிடைச்சா உடனே return பண்ணிடலாம்
                 if (res == target) {
                     return res;
                 }
@@ -56,7 +55,6 @@ class Solution {
                     ans = res;
                 }
 
-                // Sum target-ஐ விட கம்மியா இருந்தா left++, அதிகமா இருந்தா right--
                 if (res < target) {
                     left++;
                 } else {
