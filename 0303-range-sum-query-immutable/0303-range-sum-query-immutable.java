@@ -1,12 +1,10 @@
 class NumArray {
      List<Integer>  a ;
     public NumArray(int[] nums) {
-        // List<Integer> temp = new ArrayList<>();
         a = new ArrayList<>();
          for(int i: nums){
             a.add(i);
          }
-        //  a.add(temp);
     }
     
     public int sumRange(int left, int right) {
