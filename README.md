@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0047-permutations-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
