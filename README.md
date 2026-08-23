@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
