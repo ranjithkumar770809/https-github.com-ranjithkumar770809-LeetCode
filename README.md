@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0268-missing-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
