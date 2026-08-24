@@ -8,7 +8,7 @@ class Solution {
         for (int i = 0; i < moves.length; i++) {
             int r = moves[i][0];
             int c = moves[i][1];
-            int val = (i % 2 == 0) ? 1 : -1; // Player A = 1, Player B = -1
+            int val = (i % 2 == 0) ? 1 : -1;  
 
             rows[r] += val;
             cols[c] += val;
