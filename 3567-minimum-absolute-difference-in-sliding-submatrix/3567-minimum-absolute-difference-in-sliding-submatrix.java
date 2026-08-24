@@ -13,14 +13,18 @@ class Solution {
                         arr[idx++]=grid[start][end];
                     }
                 }
-                Arrays.sort(arr);
-                int min=Integer.MAX_VALUE;
-                for(int l=1; l<k*k; l++){
-                    if(arr[l]!=arr[l-1]){
-                     min  = Math.min(min,Math.abs(arr[l]-arr[l-1]));                       
-                    }
+Arrays.sort(arr);
+int min = Integer.MAX_VALUE;
 
-                }
+for (int l = 1; l < k * k; l++) {
+    if (arr[l] != arr[l - 1]) {
+        int diff = arr[l] - arr[l - 1];
+        if (diff < min) {
+            min = diff;
+            if (min == 1) break; // Smallest possible non-zero difference found
+        }
+    }
+}
                 if (min == Integer.MAX_VALUE) {
     min = 0;
 }
