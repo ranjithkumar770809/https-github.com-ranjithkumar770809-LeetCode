@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1002-find-common-characters](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1002-find-common-characters](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
