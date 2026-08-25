@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0263-ugly-number/) | Easy |
