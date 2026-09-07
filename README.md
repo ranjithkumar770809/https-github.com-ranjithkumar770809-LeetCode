@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2106-maximum-fruits-harvested-after-at-most-k-steps/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
