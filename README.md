@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2430-maximum-deletions-on-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2430-maximum-deletions-on-a-string/) | Hard |
 | [3136-valid-word](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3136-valid-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
