@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sliding Window
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2430-maximum-deletions-on-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2430-maximum-deletions-on-a-string/) | Hard |
 ## Greedy
