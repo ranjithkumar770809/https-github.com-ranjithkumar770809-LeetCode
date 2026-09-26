@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1002-find-common-characters/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0476-number-complement](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0476-number-complement/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
