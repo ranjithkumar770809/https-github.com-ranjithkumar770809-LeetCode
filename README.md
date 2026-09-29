@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2106-maximum-fruits-harvested-after-at-most-k-steps/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2430-maximum-deletions-on-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2430-maximum-deletions-on-a-string/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Sorting
@@ -520,4 +523,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
