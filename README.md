@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2106-maximum-fruits-harvested-after-at-most-k-steps/) | Hard |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ranjithkumar770809/https-github.com-ranjithkumar770809-LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
